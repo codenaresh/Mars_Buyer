@@ -1,0 +1,21 @@
+{ 
+   "testdata":{ 
+   
+      "username":"TestMARSQA",
+      "impersonateUserid":"129392",
+       "usernameSeller":"admin",
+      "password":"fails345",
+        "passwordSeller":"fails345",
+      "forgotpwd":"Forgot Password",
+      "contactus":"Contact Us",
+      "rememberme":"Remember Me",
+      "title":"Mars Buyer",
+      "userlabel":"User Name",
+      "accountLoginText":"Account Login",
+      "logout":"login",
+      "urltext":"home",
+      "logouturl":"https://archway-mars-qa.azurewebsites.net/login",
+      "homaepageurl":"https://archway-mars-qa.azurewebsites.net/home",
+       "marsSellerurl":"https://archway-mars-seller-qa.azurewebsites.net/login"
+   }
+}

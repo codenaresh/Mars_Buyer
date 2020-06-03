@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584775841216' stop='1584775866592'>
+    <name> Verifying the Login Page - </name>
+    <title> Verifying the Login Page - </title>
+    <test-cases>
+        <test-case start='1584775841217' status='passed' stop='1584775860371'>
+            <name>User should be able to select Order status successfully</name>
+            <title>User should be able to select Order status successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2d55cbec-8bde-495e-ae3b-5e0bf5d6b29d-attachment.png' type='image/png' size='41063'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584775860371' status='passed' stop='1584775865474'>
+            <name>User Should be able to enter date successfully</name>
+            <title>User Should be able to enter date successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a6d2802a-8155-4f36-9e5b-a16cdd1c7e3a-attachment.png' type='image/png' size='41706'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584775865474' status='passed' stop='1584775866592'>
+            <name>Verify Header value</name>
+            <title>Verify Header value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='08646dd5-a3c2-434a-a7c4-b35390846eaa-attachment.png' type='image/png' size='40171'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

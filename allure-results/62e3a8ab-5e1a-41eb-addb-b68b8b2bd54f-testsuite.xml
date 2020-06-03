@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584981163813' stop='1584981214361'>
+    <name>Add Item by Search</name>
+    <title>Add Item by Search</title>
+    <test-cases>
+        <test-case start='1584981163813' status='passed' stop='1584981179574'>
+            <name>Search Item </name>
+            <title>Search Item </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='62c0a867-92a9-411b-a74f-bbd08e47c743-attachment.png' type='image/png' size='97310'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981179574' status='passed' stop='1584981180010'>
+            <name>Verify Item Id</name>
+            <title>Verify Item Id</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='384db124-7c39-4f47-994c-fa1b6b87aaab-attachment.png' type='image/png' size='97275'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981180011' status='passed' stop='1584981188670'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='76b03018-28c4-4084-89b9-84ddbd335272-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981188670' status='passed' stop='1584981189093'>
+            <name>Verifying the counter </name>
+            <title>Verifying the counter </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1d66b814-4ee3-41b3-8f91-d2fb4129e154-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981189094' status='passed' stop='1584981189540'>
+            <name>verify UOM element of product description</name>
+            <title>verify UOM element of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3fdd802e-a4c3-4d76-97c2-8cbb3a4b3c27-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981189540' status='passed' stop='1584981189982'>
+            <name>verify Status  of product description</name>
+            <title>verify Status  of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2d2482de-15ed-4c78-bcdc-4207325480f3-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981189982' status='passed' stop='1584981206810'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9663e14c-d2c1-4176-95fa-408bf3e6d7e1-attachment.png' type='image/png' size='164000'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981206810' status='passed' stop='1584981214360'>
+            <name>click on cart icon and click on  CheckOut</name>
+            <title>click on cart icon and click on  CheckOut</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f4ef9e8e-bbaf-4625-a760-7f5af5fa3f06-attachment.png' type='image/png' size='65676'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584981214360' status='pending' stop='1584981214361'>
+            <name>Verify Error Message if Qty&lt;1 or zero</name>
+            <title>Verify Error Message if Qty&lt;1 or zero</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

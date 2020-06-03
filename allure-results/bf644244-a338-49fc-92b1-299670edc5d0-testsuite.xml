@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585301710635' stop='1585301711357'>
+    <name>Add Item by List Verify Item/product specification</name>
+    <title>Add Item by List Verify Item/product specification</title>
+    <test-cases>
+        <test-case start='1585301710635' status='passed' stop='1585301711357'>
+            <name>all items</name>
+            <title>all items</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ef1a6015-50e1-42ae-99f0-6576996da2dc-attachment.png' type='image/png' size='163056'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

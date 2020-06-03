@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584687823030' stop='1584687846533'>
+    <name> Verifying the Login Page - </name>
+    <title> Verifying the Login Page - </title>
+    <test-cases>
+        <test-case start='1584687823030' status='passed' stop='1584687841485'>
+            <name>User should be able to select Order status successfully</name>
+            <title>User should be able to select Order status successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5c581f82-db04-44a0-aa44-2e167665b79e-attachment.png' type='image/png' size='38078'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584687841485' status='passed' stop='1584687846532'>
+            <name>User Should be able to enter date successfully</name>
+            <title>User Should be able to enter date successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4fbc33af-4df9-43b6-b969-1544283eacc2-attachment.png' type='image/png' size='39573'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

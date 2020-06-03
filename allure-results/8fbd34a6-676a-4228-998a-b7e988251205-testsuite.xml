@@ -1,0 +1,218 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585129213639' stop='1585129291601'>
+    <name> Verifying Home Page </name>
+    <title> Verifying Home Page </title>
+    <test-cases>
+        <test-case start='1585129213639' status='passed' stop='1585129214060'>
+            <name>veriy all links present on page</name>
+            <title>veriy all links present on page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f949e8ef-9f6a-4184-adbd-4f294050db17-attachment.png' type='image/png' size='31666'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129214060' status='passed' stop='1585129214428'>
+            <name>should find all links on Home Page</name>
+            <title>should find all links on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1cdda7a2-5bb4-47e4-837c-efc9198fc037-attachment.png' type='image/png' size='31666'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129214428' status='passed' stop='1585129217763'>
+            <name>Verify Presence of Logo text on Home Page</name>
+            <title>Verify Presence of Logo text on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='43242c9c-af4f-4073-b52e-09ced7b1c8f2-attachment.png' type='image/png' size='23472'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129217764' status='passed' stop='1585129218187'>
+            <name>Verify URL of the Home page once user is logged successfully </name>
+            <title>Verify URL of the Home page once user is logged successfully </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e20f4caf-53f7-4b18-a12c-20b30270fbe6-attachment.png' type='image/png' size='155597'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129218187' status='passed' stop='1585129218752'>
+            <name>Verify BrowseProduct icon is present on the Landing/Home page after Login</name>
+            <title>Verify BrowseProduct icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9aed8d69-ee97-498b-95fc-716e3ac13cee-attachment.png' type='image/png' size='99617'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129218752' status='passed' stop='1585129219271'>
+            <name>Verify Report icon is present on the Landing/Home page after Login</name>
+            <title>Verify Report icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a18f8464-9747-4314-814b-20c9a79d4e1c-attachment.png' type='image/png' size='99864'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129219271' status='passed' stop='1585129219728'>
+            <name>Verify Search Option on Home Page</name>
+            <title>Verify Search Option on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3e27febd-fd2e-4258-a4a4-9497196f77ba-attachment.png' type='image/png' size='137704'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129219728' status='passed' stop='1585129220246'>
+            <name>Verify Cart Icon</name>
+            <title>Verify Cart Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='97f632c4-060e-4939-9e83-27aacf10cbeb-attachment.png' type='image/png' size='137211'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129235834' status='passed' stop='1585129236322'>
+            <name>Verify if Item ID and URl contains the Same Product ID</name>
+            <title>Verify if Item ID and URl contains the Same Product ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='87a6da8f-cdbf-465d-a4b1-b50d92ae7e20-attachment.png' type='image/png' size='201257'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129236322' status='passed' stop='1585129239929'>
+            <name>Click on Mars Icon</name>
+            <title>Click on Mars Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='38b9419c-1f22-4cb5-a3cd-3b0b5b95f6bf-attachment.png' type='image/png' size='143053'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129281534' status='passed' stop='1585129285173'>
+            <name>Click on Mars Icon</name>
+            <title>Click on Mars Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b58f2217-7bd2-47e0-9ec9-f13916a3d343-attachment.png' type='image/png' size='145632'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129285173' status='failed' stop='1585129285746'>
+            <name>Verify  condition of use </name>
+            <title>Verify  condition of use </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5a8a4d56-e3f2-4920-81bd-955eb07229c1-attachment.png' type='image/png' size='59888'/>
+            </attachments>
+            <failure>
+                <message>Expected 'https://archway-mars-qa.azurewebsites.net/home' to contain 'https://archway-mars-qa.azurewebsites.net/condition-of-use'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:860:48
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585129285746' status='passed' stop='1585129291191'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='094b77bd-73c0-4261-a69a-e6cf65742303-attachment.png' type='image/png' size='147377'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129291191' status='failed' stop='1585129291600'>
+            <name>Verify Privacy Plociy</name>
+            <title>Verify Privacy Plociy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='83681174-7637-41a0-8bf6-fe7c02b20b07-attachment.png' type='image/png' size='147377'/>
+            </attachments>
+            <failure>
+                <message>Failed: invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'//a[contains(text(),'Privacy Policy')]')] because of the following error:
+                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'//a[contains(text(),'Privacy Policy')]')]' is not a valid XPath expression.
+                  (Session info: chrome=80.0.3987.149)
+                  (Driver info: chromedriver=80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}),platform=Windows NT 6.1.7601 SP1 x86_64)</message>
+                <stack-trace>InvalidSelectorError: invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'//a[contains(text(),'Privacy Policy')]')] because of the following error:
+                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'//a[contains(text(),'Privacy Policy')]')]' is not a valid XPath expression.
+                  (Session info: chrome=80.0.3987.149)
+                  (Driver info: chromedriver=80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}),platform=Windows NT 6.1.7601 SP1 x86_64)
+                    at Object.checkLegacyResponse (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:546:15)
+                    at parseHttpResponse (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:509:13)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:441:30
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: WebDriver.findElements(By(xpath, //a[contains(text(),'//a[contains(text(),'Privacy Policy')]')]))
+                    at Driver.schedule (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+                    at Driver.findElements (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1048:19)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\built\element.js:159:44
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: WebDriver.executeScript()
+                    at Driver.schedule (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+                    at Driver.executeScript (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:878:16)
+                    at run (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\built\browser.js:59:33)
+                    at ProtractorBrowser.to.&lt;computed> (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\built\browser.js:67:16)
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:893:12)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                From: Task: Run it("Verify Privacy Plociy") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:889:3)
+                    at addSpecsToSuite (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:19:1)
+                    at Module._compile (internal/modules/cjs/loader.js:956:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+                    at Module.load (internal/modules/cjs/loader.js:812:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:724:14)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

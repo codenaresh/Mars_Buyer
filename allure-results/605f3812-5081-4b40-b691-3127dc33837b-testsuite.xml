@@ -1,0 +1,181 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584971780006' stop='1584971847645'>
+    <name>Add Item by Table</name>
+    <title>Add Item by Table</title>
+    <test-cases>
+        <test-case start='1584971780007' status='passed' stop='1584971813042'>
+            <name>User should add item successfully</name>
+            <title>User should add item successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='33f861ff-f9ed-4c18-98f0-bfd313d1c39b-attachment.png' type='image/png' size='108317'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584971813042' status='passed' stop='1584971813550'>
+            <name>verify presence of  table icon </name>
+            <title>verify presence of  table icon </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='eae70788-8ec0-41b2-a75c-20c0b056b375-attachment.png' type='image/png' size='108317'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584971813550' status='pending' stop='1584971813552'>
+            <name>Verify pagination feature</name>
+            <title>Verify pagination feature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584971813552' status='passed' stop='1584971822272'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7bb247f4-8e8d-4842-8370-e2d24185ef9c-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584971822272' status='passed' stop='1584971822744'>
+            <name>verify UOM element of product description</name>
+            <title>verify UOM element of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='285d23fa-b65b-40d0-923a-d1c5d128f196-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584971822744' status='passed' stop='1584971823177'>
+            <name>verify Status  of product description</name>
+            <title>verify Status  of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f2606ffd-3874-4f08-8b56-92b6207d7be0-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584971823177' status='failed' stop='1584971823693'>
+            <name>verify Min Qty  product description</name>
+            <title>verify Min Qty  product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6e691002-184d-4f3f-8d71-3d6944d7c521-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+            <failure>
+                <message>Failed: qtychk is not defined</message>
+                <stack-trace>ReferenceError: qtychk is not defined
+                    at addtoCart.getqtychk (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\pageobjects\AddItem\AddItem.js:546:3)
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByTable_spec.js:220:25)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                From: Task: Run it("verify Min Qty  product description") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByTable_spec.js:218:2)
+                    at addSpecsToSuite (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByTable_spec.js:15:1)
+                    at Module._compile (internal/modules/cjs/loader.js:956:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+                    at Module.load (internal/modules/cjs/loader.js:812:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:724:14)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584971823693' status='failed' stop='1584971824143'>
+            <name>verify Max Order Limit of product description</name>
+            <title>verify Max Order Limit of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e776794b-cc1c-40a2-bd70-f8b49954c82b-attachment.png' type='image/png' size='215087'/>
+            </attachments>
+            <failure>
+                <message>Failed: maxorderqty is not defined</message>
+                <stack-trace>ReferenceError: maxorderqty is not defined
+                    at addtoCart.getmaxorderqty (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\pageobjects\AddItem\AddItem.js:535:3)
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByTable_spec.js:248:29)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                From: Task: Run it("verify Max Order Limit of product description") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByTable_spec.js:246:2)
+                    at addSpecsToSuite (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByTable_spec.js:15:1)
+                    at Module._compile (internal/modules/cjs/loader.js:956:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+                    at Module.load (internal/modules/cjs/loader.js:812:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:724:14)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584971824143' status='passed' stop='1584971840018'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='54b2618d-d44c-4ba9-ae51-5858fb43110f-attachment.png' type='image/png' size='163997'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584971840018' status='passed' stop='1584971847645'>
+            <name>click on Cart Icon</name>
+            <title>click on Cart Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='14b8bc06-c69b-44cb-b677-ad9f509ee6e8-attachment.png' type='image/png' size='65411'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,77 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585797730566' stop='1585797781535'>
+    <name>Verify user can update  New Address</name>
+    <title>Verify user can update  New Address</title>
+    <test-cases>
+        <test-case start='1585797730566' status='passed' stop='1585797781531'>
+            <name>Verify if user can create a New Address</name>
+            <title>Verify if user can create a New Address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0eafd05d-76f6-4116-903e-8886f9dc2570-attachment.png' type='image/png' size='85529'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585797781531' status='pending' stop='1585797781533'>
+            <name> Verify company  is required</name>
+            <title> Verify company  is required</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585797781533' status='pending' stop='1585797781533'>
+            <name> Address 1 is required</name>
+            <title> Address 1 is required</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585797781533' status='pending' stop='1585797781534'>
+            <name> Verify the Mandatory Field Alert : City is required</name>
+            <title> Verify the Mandatory Field Alert : City is required</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585797781534' status='pending' stop='1585797781534'>
+            <name> Verify the Mandatory Field Alert : State is required</name>
+            <title> Verify the Mandatory Field Alert : State is required</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585797781534' status='pending' stop='1585797781535'>
+            <name>Verify the Mandatory Field Alert : Zip Code is required</name>
+            <title>Verify the Mandatory Field Alert : Zip Code is required</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

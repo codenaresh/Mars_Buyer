@@ -1,0 +1,249 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584868141635' stop='1584868209831'>
+    <name> Verifying Home Page </name>
+    <title> Verifying Home Page </title>
+    <test-cases>
+        <test-case start='1584868141635' status='passed' stop='1584868142025'>
+            <name>veriy all links present on page</name>
+            <title>veriy all links present on page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a18b2b4f-c557-4e96-8637-15add1595afb-attachment.png' type='image/png' size='31747'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868142025' status='passed' stop='1584868142380'>
+            <name>should find all links on Home Page</name>
+            <title>should find all links on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='840609d0-c6a5-4c69-bca3-12de4f90793a-attachment.png' type='image/png' size='31654'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868142380' status='passed' stop='1584868148807'>
+            <name>Verify Presence of Logo text on Home Page</name>
+            <title>Verify Presence of Logo text on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='413450f7-fc8f-4528-89ce-24b272faed55-attachment.png' type='image/png' size='31564'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868148807' status='failed' stop='1584868149196'>
+            <name>Verify URL of the Home page once user is logged successfully </name>
+            <title>Verify URL of the Home page once user is logged successfully </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b304c3ac-4640-4185-b245-3ec76ba02217-attachment.png' type='image/png' size='31633'/>
+            </attachments>
+            <failure>
+                <message>Expected 'https://archway-mars-qa.azurewebsites.net/login' to contain 'https://archway-mars-qa.azurewebsites.net/home'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:98:23
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584868149197' status='passed' stop='1584868149676'>
+            <name>Verify BrowseProduct icon is present on the Landing/Home page after Login</name>
+            <title>Verify BrowseProduct icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b5b32169-fd4d-4f87-8a01-1b09c71403c2-attachment.png' type='image/png' size='24013'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868149676' status='passed' stop='1584868150150'>
+            <name>Verify Report icon is present on the Landing/Home page after Login</name>
+            <title>Verify Report icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1986366c-a6b2-4dd7-a29d-1efa72ce5415-attachment.png' type='image/png' size='69905'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868150150' status='passed' stop='1584868150581'>
+            <name>Verify Search Option on Home Page</name>
+            <title>Verify Search Option on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fccebd44-a97d-4d62-9495-35ebcc116242-attachment.png' type='image/png' size='100142'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868150581' status='passed' stop='1584868151064'>
+            <name>Verify Cart Icon</name>
+            <title>Verify Cart Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c27aba93-4fd9-4e76-ae46-9a9712b59096-attachment.png' type='image/png' size='100151'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868163822' status='passed' stop='1584868164313'>
+            <name>Verify if Item ID and URl contains the Same Product ID</name>
+            <title>Verify if Item ID and URl contains the Same Product ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7ad57a49-a95a-40ab-a585-d287797e9846-attachment.png' type='image/png' size='201314'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868164313' status='passed' stop='1584868167843'>
+            <name>Click on Mars Icon</name>
+            <title>Click on Mars Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='df26ca76-b2aa-4543-a073-1ba5ff1c9a46-attachment.png' type='image/png' size='196597'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868185307' status='passed' stop='1584868185732'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f288b32e-de01-4a2f-9d85-a1243fd1daa4-attachment.png' type='image/png' size='43816'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868196262' status='passed' stop='1584868204452'>
+            <name>Refresh the page</name>
+            <title>Refresh the page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4e61df19-1e1b-4d4d-bb31-ac29c8ede9c0-attachment.png' type='image/png' size='32459'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868204452' status='failed' stop='1584868204990'>
+            <name>Verify  condition of use </name>
+            <title>Verify  condition of use </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ed48c518-c5ab-41fc-b3b3-04879c279a17-attachment.png' type='image/png' size='40734'/>
+            </attachments>
+            <failure>
+                <message>Expected 'https://archway-mars-qa.azurewebsites.net/contact-us' to contain 'http://...'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:849:55
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584868204990' status='passed' stop='1584868209052'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3a4b0966-7c4b-4b26-b565-67f29ebf01de-attachment.png' type='image/png' size='33165'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584868209052' status='failed' stop='1584868209472'>
+            <name>Verify Privacy Plociy</name>
+            <title>Verify Privacy Plociy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='77bbf6f6-9f81-4541-ae23-f2333a68c90a-attachment.png' type='image/png' size='45032'/>
+            </attachments>
+            <failure>
+                <message>Failed: invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'//a[contains(text(),'Privacy Policy')]')] because of the following error:
+                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'//a[contains(text(),'Privacy Policy')]')]' is not a valid XPath expression.
+                  (Session info: chrome=80.0.3987.149)
+                  (Driver info: chromedriver=80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}),platform=Windows NT 6.1.7601 SP1 x86_64)</message>
+                <stack-trace>InvalidSelectorError: invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'//a[contains(text(),'Privacy Policy')]')] because of the following error:
+                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'//a[contains(text(),'Privacy Policy')]')]' is not a valid XPath expression.
+                  (Session info: chrome=80.0.3987.149)
+                  (Driver info: chromedriver=80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}),platform=Windows NT 6.1.7601 SP1 x86_64)
+                    at Object.checkLegacyResponse (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:546:15)
+                    at parseHttpResponse (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:509:13)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:441:30
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: WebDriver.findElements(By(xpath, //a[contains(text(),'//a[contains(text(),'Privacy Policy')]')]))
+                    at Driver.schedule (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+                    at Driver.findElements (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1048:19)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\built\element.js:159:44
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: WebDriver.executeScript()
+                    at Driver.schedule (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+                    at Driver.executeScript (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:878:16)
+                    at run (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\built\browser.js:59:33)
+                    at ProtractorBrowser.to.&lt;computed> (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\built\browser.js:67:16)
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:878:12)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                From: Task: Run it("Verify Privacy Plociy") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:874:3)
+                    at addSpecsToSuite (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:19:1)
+                    at Module._compile (internal/modules/cjs/loader.js:956:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+                    at Module.load (internal/modules/cjs/loader.js:812:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:724:14)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584868209472' status='passed' stop='1584868209830'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='71f0cd90-edfd-4c79-b655-3019df5de185-attachment.png' type='image/png' size='45973'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

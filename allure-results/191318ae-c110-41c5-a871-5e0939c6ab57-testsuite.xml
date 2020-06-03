@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585129915784' stop='1585129927465'>
+    <name> Verifying Home Page  Verify Feature Item </name>
+    <title> Verifying Home Page  Verify Feature Item </title>
+    <test-cases>
+        <test-case start='1585129915784' status='passed' stop='1585129916214'>
+            <name>Verify Feature Product text presence</name>
+            <title>Verify Feature Product text presence</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ebe90bf5-5602-4bee-9c94-9d42d3ad8d96-attachment.png' type='image/png' size='139172'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129916214' status='passed' stop='1585129924753'>
+            <name>Click on feature veryFirstImage Icon</name>
+            <title>Click on feature veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8b48be1d-71bd-4636-b3a4-a02e20c5465d-attachment.png' type='image/png' size='201289'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129924753' status='passed' stop='1585129925203'>
+            <name>verify Status  of product description</name>
+            <title>verify Status  of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9e56f0cb-a355-4cd8-9514-ad1a1ff70013-attachment.png' type='image/png' size='201245'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129925203' status='passed' stop='1585129925626'>
+            <name>verify UOM element of product description</name>
+            <title>verify UOM element of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='567cba79-35bb-4b54-b8f6-f6e0da865be8-attachment.png' type='image/png' size='201245'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129925626' status='passed' stop='1585129926083'>
+            <name>verify Length text presence</name>
+            <title>verify Length text presence</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f1601ded-23ff-49ab-ad4f-9b399bbe49d2-attachment.png' type='image/png' size='201247'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129926083' status='passed' stop='1585129926527'>
+            <name>verify Height text presence</name>
+            <title>verify Height text presence</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a2ebc437-d491-4116-9d43-97fefc99c2e9-attachment.png' type='image/png' size='201212'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129926527' status='passed' stop='1585129927003'>
+            <name>verify Width text presence</name>
+            <title>verify Width text presence</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ca5ee824-24fa-4277-8f54-d96ee7ae7599-attachment.png' type='image/png' size='201256'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585129927003' status='passed' stop='1585129927465'>
+            <name>verify Weight text presence</name>
+            <title>verify Weight text presence</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0859ed98-0796-4ba9-9549-ff28dcab51e4-attachment.png' type='image/png' size='201253'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

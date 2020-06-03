@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585388167485' stop='1585388194639'>
+    <name>Add Item by List Verify Item/product deatils</name>
+    <title>Add Item by List Verify Item/product deatils</title>
+    <test-cases>
+        <test-case start='1585388167485' status='passed' stop='1585388168206'>
+            <name>Items details</name>
+            <title>Items details</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='35bd4cfa-646e-40c1-9484-0804f663d896-attachment.png' type='image/png' size='213641'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585388168206' status='pending' stop='1585388168207'>
+            <name>Items details by map </name>
+            <title>Items details by map </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585388168208' status='passed' stop='1585388181013'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a560bc60-c88a-4a78-bc66-1c68d266a604-attachment.png' type='image/png' size='162662'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585388181013' status='passed' stop='1585388194639'>
+            <name>Validate Error Message if out of stock or any other reson</name>
+            <title>Validate Error Message if out of stock or any other reson</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1acef6a6-c69a-4828-a3a5-395b9b5761de-attachment.png' type='image/png' size='65519'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

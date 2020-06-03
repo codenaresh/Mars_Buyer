@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585233213355' stop='1585233252489'>
+    <name>Add Item to cart by  Quick Add and verify contents present on page </name>
+    <title>Add Item to cart by  Quick Add and verify contents present on page </title>
+    <test-cases>
+        <test-case start='1585233213356' status='passed' stop='1585233226973'>
+            <name>Quick Add : Enter product and quantity successfully</name>
+            <title>Quick Add : Enter product and quantity successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='74fc7373-7b01-4719-ac98-88c1e014720f-attachment.png' type='image/png' size='92543'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233226973' status='passed' stop='1585233229055'>
+            <name>verify Sort option is present on Add To Cart screen </name>
+            <title>verify Sort option is present on Add To Cart screen </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3216b9cb-b7a6-44c3-b8b5-838d6214acd4-attachment.png' type='image/png' size='92494'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233229055' status='passed' stop='1585233230645'>
+            <name>verify Refine By text on Add To Cart screen</name>
+            <title>verify Refine By text on Add To Cart screen</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d851071f-6b0f-40d6-a76d-83ef8bf4ce6d-attachment.png' type='image/png' size='103156'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233230645' status='passed' stop='1585233232185'>
+            <name>verify My Favorites link</name>
+            <title>verify My Favorites link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b93aa956-1a74-4b26-bc49-da799ee69d86-attachment.png' type='image/png' size='103225'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233232185' status='passed' stop='1585233233364'>
+            <name>Verify Quick Add Header label text</name>
+            <title>Verify Quick Add Header label text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='46ed5bdb-d455-4785-8b62-6bac19125452-attachment.png' type='image/png' size='115066'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233233364' status='passed' stop='1585233242977'>
+            <name>click on cart icon  </name>
+            <title>click on cart icon  </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='17c6d72d-6e4d-40ef-9799-67893b412789-attachment.png' type='image/png' size='33520'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

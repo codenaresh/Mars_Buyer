@@ -1,0 +1,194 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584877307760' stop='1584877382178'>
+    <name> Verifying Home Page </name>
+    <title> Verifying Home Page </title>
+    <test-cases>
+        <test-case start='1584877307760' status='passed' stop='1584877308148'>
+            <name>veriy all links present on page</name>
+            <title>veriy all links present on page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='aa16ba54-b0fc-4ebd-84ea-2a505d5bdfaa-attachment.png' type='image/png' size='31623'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877308148' status='passed' stop='1584877308502'>
+            <name>should find all links on Home Page</name>
+            <title>should find all links on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='89473c09-5b5d-40d8-9047-12dced79e7bd-attachment.png' type='image/png' size='31550'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877308502' status='passed' stop='1584877314930'>
+            <name>Verify Presence of Logo text on Home Page</name>
+            <title>Verify Presence of Logo text on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7f077cff-0d56-4526-af1e-a418978e0e2f-attachment.png' type='image/png' size='31327'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877314930' status='failed' stop='1584877315299'>
+            <name>Verify URL of the Home page once user is logged successfully </name>
+            <title>Verify URL of the Home page once user is logged successfully </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b7bf4eb2-68d3-4207-b7a6-0239cf898ae9-attachment.png' type='image/png' size='31418'/>
+            </attachments>
+            <failure>
+                <message>Expected 'https://archway-mars-qa.azurewebsites.net/login' to contain 'https://archway-mars-qa.azurewebsites.net/home'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:98:23
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584877315299' status='passed' stop='1584877316098'>
+            <name>Verify BrowseProduct icon is present on the Landing/Home page after Login</name>
+            <title>Verify BrowseProduct icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a89ff39a-43b1-41f9-b9de-d087a4242da0-attachment.png' type='image/png' size='23015'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877316098' status='passed' stop='1584877316551'>
+            <name>Verify Report icon is present on the Landing/Home page after Login</name>
+            <title>Verify Report icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='61c09b6d-4369-430e-8acf-78035c78210d-attachment.png' type='image/png' size='22995'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877316551' status='passed' stop='1584877317039'>
+            <name>Verify Search Option on Home Page</name>
+            <title>Verify Search Option on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b0471a09-8373-4518-8648-777b3e24da12-attachment.png' type='image/png' size='152388'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877317039' status='passed' stop='1584877317527'>
+            <name>Verify Cart Icon</name>
+            <title>Verify Cart Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='eed95a4b-5571-4241-bf91-0f966d3e9d98-attachment.png' type='image/png' size='152337'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877336092' status='passed' stop='1584877336555'>
+            <name>Verify if Item ID and URl contains the Same Product ID</name>
+            <title>Verify if Item ID and URl contains the Same Product ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='41517834-3965-4afb-8b25-51817ee3ce06-attachment.png' type='image/png' size='201316'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877336555' status='passed' stop='1584877340109'>
+            <name>Click on Mars Icon</name>
+            <title>Click on Mars Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2131e0a9-3fc9-4f4e-8345-a245b8ff3b1f-attachment.png' type='image/png' size='142990'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877357926' status='passed' stop='1584877358304'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='35fc373b-4e2b-4595-8c3b-e1893ffcd608-attachment.png' type='image/png' size='43816'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877368878' status='passed' stop='1584877377490'>
+            <name>Refresh the page</name>
+            <title>Refresh the page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='75add56f-5f93-44df-b60e-8c7dddf1466d-attachment.png' type='image/png' size='31958'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877377490' status='failed' stop='1584877378125'>
+            <name>Verify  condition of use </name>
+            <title>Verify  condition of use </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='47af4774-9254-42af-914e-ef8e519b830f-attachment.png' type='image/png' size='40734'/>
+            </attachments>
+            <failure>
+                <message>Expected 'https://archway-mars-qa.azurewebsites.net/contact-us' to contain 'http://...'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\HomePage\HomePage_spec.js:851:55
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584877378125' status='passed' stop='1584877382176'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6a76c365-6270-4cec-9f54-c6e01c97d1e4-attachment.png' type='image/png' size='33078'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584877382176' status='pending' stop='1584877382177'>
+            <name>Verify Privacy Plociy</name>
+            <title>Verify Privacy Plociy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584877382177' status='pending' stop='1584877382177'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

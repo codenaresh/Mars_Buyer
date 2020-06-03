@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584954137188' stop='1584954194962'>
+    <name>Add Item by List</name>
+    <title>Add Item by List</title>
+    <test-cases>
+        <test-case start='1584954137188' status='passed' stop='1584954171031'>
+            <name>Item should add successfully</name>
+            <title>Item should add successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='23dbd9ad-dba4-457b-b9ff-cbfae5c2a2f2-attachment.png' type='image/png' size='149822'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584954171031' status='passed' stop='1584954171500'>
+            <name>verify presence list icon </name>
+            <title>verify presence list icon </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f6a81386-28e7-4f17-beb4-d74532780af6-attachment.png' type='image/png' size='149822'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584954171500' status='passed' stop='1584954171956'>
+            <name>verify Display option is present </name>
+            <title>verify Display option is present </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8eab5cf0-6ee1-4108-be56-ba3ac48e2483-attachment.png' type='image/png' size='149822'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584954171956' status='pending' stop='1584954171957'>
+            <name>Verify pagination feature</name>
+            <title>Verify pagination feature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584954171957' status='passed' stop='1584954180661'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7077f28d-2ee2-44a6-ae5a-b0476ff0dc63-attachment.png' type='image/png' size='163138'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584954180661' status='passed' stop='1584954181176'>
+            <name>verify UOM element of product description</name>
+            <title>verify UOM element of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ba660794-10b7-4da2-bf7a-db317b327a0d-attachment.png' type='image/png' size='163089'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584954181176' status='passed' stop='1584954181690'>
+            <name>verify Status  of product description</name>
+            <title>verify Status  of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7157b81e-7f80-4162-aff9-838b53326462-attachment.png' type='image/png' size='163074'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584954181690' status='passed' stop='1584954188495'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bd426b6b-063d-4acd-a55c-eb16d696aaf3-attachment.png' type='image/png' size='164023'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584954188495' status='passed' stop='1584954194962'>
+            <name>Validate Error Message if out of stock or any other reson</name>
+            <title>Validate Error Message if out of stock or any other reson</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f4a1675b-2ad5-4132-b123-0212e7f53899-attachment.png' type='image/png' size='164004'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

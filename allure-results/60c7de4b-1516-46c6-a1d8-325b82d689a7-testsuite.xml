@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584618237809' stop='1584618271559'>
+    <name>Verify Login</name>
+    <title>Verify Login</title>
+    <test-cases>
+        <test-case start='1584618237809' status='passed' stop='1584618257148'>
+            <name>should login the user</name>
+            <title>should login the user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='16fbad63-d010-4ada-9aaf-22fc7d5ffcd5-attachment.png' type='image/png' size='34146'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618257149' status='passed' stop='1584618257539'>
+            <name>Verify Mars  written on Image on Login Page</name>
+            <title>Verify Mars  written on Image on Login Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b48c697b-4c90-40ea-bb84-db883243e00f-attachment.png' type='image/png' size='32578'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618257539' status='passed' stop='1584618257951'>
+            <name>Verify Welcome Message on Login Page</name>
+            <title>Verify Welcome Message on Login Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4d2297fb-2565-4ae2-beb0-8d3db7da7eef-attachment.png' type='image/png' size='32551'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618257951' status='passed' stop='1584618258340'>
+            <name>Forgot password link present on the Login page</name>
+            <title>Forgot password link present on the Login page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f4e60f51-e2a2-4ff1-bc53-541a7d10dce5-attachment.png' type='image/png' size='32578'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618258340' status='passed' stop='1584618258720'>
+            <name>Forgot Customer Number link the Login page</name>
+            <title>Forgot Customer Number link the Login page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='10faba13-7f44-4c9f-8520-1ec8f8870e3e-attachment.png' type='image/png' size='32578'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618258720' status='passed' stop='1584618259105'>
+            <name>Verify Username labeling is preseet</name>
+            <title>Verify Username labeling is preseet</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f83c8384-5739-4650-a419-2fdd1d2e2e44-attachment.png' type='image/png' size='32551'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618259105' status='passed' stop='1584618259480'>
+            <name>Verify password label is present</name>
+            <title>Verify password label is present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9dbf5dad-4b2b-4897-bd10-5ce266d33aef-attachment.png' type='image/png' size='32578'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618259480' status='passed' stop='1584618259893'>
+            <name>Verify Remember Me check box</name>
+            <title>Verify Remember Me check box</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e599e2b4-bedb-453f-9382-2ea9ef612a2a-attachment.png' type='image/png' size='32578'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618259893' status='passed' stop='1584618260244'>
+            <name>verify the title of the Page</name>
+            <title>verify the title of the Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1e00c42b-18f8-4ba1-9f31-51062a36b4b7-attachment.png' type='image/png' size='32551'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618260244' status='passed' stop='1584618260618'>
+            <name>veriy all links present on page</name>
+            <title>veriy all links present on page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='775471c8-0313-4829-a07c-606a13bc0dd2-attachment.png' type='image/png' size='32578'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584618260618' status='passed' stop='1584618271558'>
+            <name>User Login successfully </name>
+            <title>User Login successfully </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='18d7f813-300f-4335-b028-8abad4a954f6-attachment.png' type='image/png' size='31568'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585385134112' stop='1585385189227'>
+    <name>Add Item by List</name>
+    <title>Add Item by List</title>
+    <test-cases>
+        <test-case start='1585385134112' status='passed' stop='1585385162190'>
+            <name>Item should add successfully</name>
+            <title>Item should add successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cb34d9a8-a4ec-4b3d-8dbe-0bfcdb90e8fc-attachment.png' type='image/png' size='149806'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585385162190' status='passed' stop='1585385162733'>
+            <name>verify presence list icon </name>
+            <title>verify presence list icon </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d0f8bb08-7b6d-4fb9-9b5a-e11cd1d1a304-attachment.png' type='image/png' size='149806'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585385162733' status='passed' stop='1585385163199'>
+            <name>verify Display option is present </name>
+            <title>verify Display option is present </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5f8a0546-cbb3-4b6b-ad1c-f3bf92eba089-attachment.png' type='image/png' size='149806'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585385163199' status='passed' stop='1585385175873'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dc856e39-3694-45d9-8b7f-3baa48233e4c-attachment.png' type='image/png' size='213922'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585385176439' status='passed' stop='1585385189225'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='256cfe8e-6baf-4342-8ee8-c7546b987a05-attachment.png' type='image/png' size='162976'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

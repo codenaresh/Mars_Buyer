@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585226516737' stop='1585226602905'>
+    <name> Multiple Products </name>
+    <title> Multiple Products </title>
+    <test-cases>
+        <test-case start='1585226516737' status='passed' stop='1585226602497'>
+            <name>Add Multiple Products successfully</name>
+            <title>Add Multiple Products successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='94609440-de7f-4fdf-ba32-2e1ae79b09e9-attachment.png' type='image/png' size='63254'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226602497' status='passed' stop='1585226602904'>
+            <name>Verify total item present in cart and Order Summary are same</name>
+            <title>Verify total item present in cart and Order Summary are same</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2bc4f537-ff18-4539-b3e9-f453948dabb4-attachment.png' type='image/png' size='68065'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

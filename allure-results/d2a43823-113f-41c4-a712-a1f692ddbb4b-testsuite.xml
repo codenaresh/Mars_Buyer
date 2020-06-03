@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584608583573' stop='1584608639509'>
+    <name>Verify Login</name>
+    <title>Verify Login</title>
+    <test-cases>
+        <test-case start='1584608583574' status='failed' stop='1584608625169'>
+            <name>should login the user</name>
+            <title>should login the user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0b38a567-dcb7-4eb1-87b8-7e695c06d9bb-attachment.png' type='image/png' size='32532'/>
+            </attachments>
+            <failure>
+                <message>Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.</message>
+                <stack-trace>Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.
+                    at Timeout._onTimeout (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4281:23)
+                    at listOnTimeout (internal/timers.js:531:17)
+                    at processTimers (internal/timers.js:475:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584608625169' status='passed' stop='1584608625563'>
+            <name>Verify Mars  written on Image on Login Page</name>
+            <title>Verify Mars  written on Image on Login Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bd57221d-d023-4c3d-ab8f-6b8321af56f0-attachment.png' type='image/png' size='32547'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608625563' status='passed' stop='1584608625928'>
+            <name>Verify Welcome Message on Login Page</name>
+            <title>Verify Welcome Message on Login Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5b2499b7-9fd6-478a-8451-cbe0c08ac958-attachment.png' type='image/png' size='32547'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608625928' status='passed' stop='1584608626339'>
+            <name>Forgot password link present on the Login page</name>
+            <title>Forgot password link present on the Login page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='347754de-4069-4200-9182-80f9cf90c4d9-attachment.png' type='image/png' size='32573'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608626340' status='passed' stop='1584608626744'>
+            <name>Forgot Customer Number link the Login page</name>
+            <title>Forgot Customer Number link the Login page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='85847082-58ab-4597-825a-85a5beca0823-attachment.png' type='image/png' size='32547'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608626745' status='passed' stop='1584608627116'>
+            <name>Verify Username labeling is preseet</name>
+            <title>Verify Username labeling is preseet</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b562fc5c-8a24-451e-830a-d9f8d1391631-attachment.png' type='image/png' size='32573'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608627116' status='passed' stop='1584608627464'>
+            <name>Verify password label is present</name>
+            <title>Verify password label is present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='aea51859-dbe2-4b35-a357-c7c42d835f27-attachment.png' type='image/png' size='32573'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608627464' status='passed' stop='1584608627873'>
+            <name>Verify Remember Me check box</name>
+            <title>Verify Remember Me check box</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5dc4de7b-2602-4d57-9072-c9c933ef206a-attachment.png' type='image/png' size='32547'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608627873' status='passed' stop='1584608628225'>
+            <name>verify the title of the Page</name>
+            <title>verify the title of the Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='659dc746-c6cb-4438-8f7e-840169245c3e-attachment.png' type='image/png' size='32573'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608628225' status='passed' stop='1584608628589'>
+            <name>veriy all links present on page</name>
+            <title>veriy all links present on page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2b5dbdb1-8c9a-436d-adec-ef3234e471b6-attachment.png' type='image/png' size='32573'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584608628589' status='passed' stop='1584608639508'>
+            <name>User Login successfully </name>
+            <title>User Login successfully </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='481263b7-3b55-4141-b794-c29d15612e44-attachment.png' type='image/png' size='31822'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585296365777' stop='1585296415749'>
+    <name>Add Item by List</name>
+    <title>Add Item by List</title>
+    <test-cases>
+        <test-case start='1585296365777' status='passed' stop='1585296403453'>
+            <name>Item should add successfully</name>
+            <title>Item should add successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='434d78d1-c2a0-467a-83df-bb78fdf46885-attachment.png' type='image/png' size='149993'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585296403453' status='passed' stop='1585296403945'>
+            <name>verify presence list icon </name>
+            <title>verify presence list icon </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='47440d1d-411f-4a6f-9c8e-8ef93bfdf043-attachment.png' type='image/png' size='149993'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585296403945' status='passed' stop='1585296404416'>
+            <name>verify Display option is present </name>
+            <title>verify Display option is present </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='26398e86-2ee0-4dac-abf3-e2da684fad54-attachment.png' type='image/png' size='149993'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585296404416' status='pending' stop='1585296404417'>
+            <name>Verify pagination feature</name>
+            <title>Verify pagination feature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585296404417' status='passed' stop='1585296413086'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8a36e049-23af-4c87-a9d1-d5878fd45348-attachment.png' type='image/png' size='32487'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

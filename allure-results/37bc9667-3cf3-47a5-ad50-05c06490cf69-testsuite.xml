@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585226130428' stop='1585226206249'>
+    <name> Verifying Home Page </name>
+    <title> Verifying Home Page </title>
+    <test-cases>
+        <test-case start='1585226130429' status='passed' stop='1585226130920'>
+            <name>veriy all links present on page</name>
+            <title>veriy all links present on page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d1b2ce80-184a-4893-9aa2-a6f0109da900-attachment.png' type='image/png' size='31549'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226130920' status='passed' stop='1585226131306'>
+            <name>should find all links on Home Page</name>
+            <title>should find all links on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a92c3cf4-5d58-41f8-9482-b35d3120f23a-attachment.png' type='image/png' size='31743'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226131306' status='passed' stop='1585226136042'>
+            <name>Verify Presence of Logo text on Home Page</name>
+            <title>Verify Presence of Logo text on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cd0c0ca8-6c10-4679-b81e-c4607c2c2df3-attachment.png' type='image/png' size='31359'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226136042' status='passed' stop='1585226136412'>
+            <name>Verify URL of the Home page once user is logged successfully </name>
+            <title>Verify URL of the Home page once user is logged successfully </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6a40f0f7-7a0d-414d-a2d1-cd610e27a2ad-attachment.png' type='image/png' size='23466'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226136412' status='passed' stop='1585226136986'>
+            <name>Verify BrowseProduct icon is present on the Landing/Home page after Login</name>
+            <title>Verify BrowseProduct icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='56a13657-b4de-456d-bdbc-66cff9a358d6-attachment.png' type='image/png' size='211958'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226136986' status='passed' stop='1585226137531'>
+            <name>Verify Report icon is present on the Landing/Home page after Login</name>
+            <title>Verify Report icon is present on the Landing/Home page after Login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f2037e68-0423-4d6e-a5cc-e7179c019406-attachment.png' type='image/png' size='211958'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226137531' status='passed' stop='1585226138005'>
+            <name>Verify Search Option on Home Page</name>
+            <title>Verify Search Option on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='77ffbe51-ba1d-4f8a-8bb0-0ad3c98beeba-attachment.png' type='image/png' size='100860'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226138005' status='passed' stop='1585226138466'>
+            <name>Verify Cart Icon</name>
+            <title>Verify Cart Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='27734ddb-698f-4707-83d0-f5823277edec-attachment.png' type='image/png' size='101084'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226161864' status='passed' stop='1585226162328'>
+            <name>Verify if Item ID and URl contains the Same Product ID</name>
+            <title>Verify if Item ID and URl contains the Same Product ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2ef608ad-2ec8-44b8-b5dd-e1cb660040d8-attachment.png' type='image/png' size='201260'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226162328' status='passed' stop='1585226165861'>
+            <name>Click on Mars Icon</name>
+            <title>Click on Mars Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='60d72e76-20e8-48ae-943c-989ebbccba1d-attachment.png' type='image/png' size='142884'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585226196076' status='passed' stop='1585226206249'>
+            <name>Refresh the Page</name>
+            <title>Refresh the Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='20a4b8e3-af02-4bc2-8f34-f7ce3de6206c-attachment.png' type='image/png' size='51791'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

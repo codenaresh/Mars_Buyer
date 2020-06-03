@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585881731952' stop='1585881764288'>
+    <name>Verify user can update  New Address</name>
+    <title>Verify user can update  New Address</title>
+    <test-cases>
+        <test-case start='1585881731952' status='passed' stop='1585881761043'>
+            <name>Verify if user can create a New Address</name>
+            <title>Verify if user can create a New Address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fb19ec8c-b161-44a8-b7c7-6b547d9a97d1-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881761043' status='passed' stop='1585881761482'>
+            <name>First Name Error Message</name>
+            <title>First Name Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d565a005-60e7-4e6f-b627-71438742f587-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881761482' status='passed' stop='1585881761900'>
+            <name>Last Name Error Message</name>
+            <title>Last Name Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7f167785-abc1-4888-86dd-15a869d60dde-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881761900' status='passed' stop='1585881762305'>
+            <name>Address 1 is required Error Message</name>
+            <title>Address 1 is required Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bdefc828-20a1-480d-a743-2c336df1c38f-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881762305' status='passed' stop='1585881762704'>
+            <name>City is required Error Message</name>
+            <title>City is required Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='45bffb45-d7e4-47c3-8798-ec4fabd0b864-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881762704' status='passed' stop='1585881763102'>
+            <name>State is required Error Message</name>
+            <title>State is required Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='afe5d87c-daeb-4f71-8f8b-0bdd10b5d132-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881763102' status='passed' stop='1585881763495'>
+            <name>Zip Code is required Error Message</name>
+            <title>Zip Code is required Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d3e343ac-9813-4afd-85d2-7e4776bd106b-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881763495' status='passed' stop='1585881763896'>
+            <name>Email Address is required e Error Message</name>
+            <title>Email Address is required e Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='03b75996-73e4-4c00-b63c-045a6a350aeb-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881763896' status='passed' stop='1585881764286'>
+            <name>Phone Number is required  Error Message</name>
+            <title>Phone Number is required  Error Message</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fa9ac320-fbe1-46c8-8366-ba945cf46f41-attachment.png' type='image/png' size='84566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585881764286' status='pending' stop='1585881764287'>
+            <name>close the alert</name>
+            <title>close the alert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

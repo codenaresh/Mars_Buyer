@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584785016689' stop='1584785044379'>
+    <name> Verifying the Login Page - </name>
+    <title> Verifying the Login Page - </title>
+    <test-cases>
+        <test-case start='1584785016689' status='passed' stop='1584785037204'>
+            <name>User should be able to select Order status successfully</name>
+            <title>User should be able to select Order status successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='870d4843-7c54-44cd-964c-bd4008b46cff-attachment.png' type='image/png' size='41846'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584785037204' status='passed' stop='1584785042277'>
+            <name>User Should be able to enter date successfully</name>
+            <title>User Should be able to enter date successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bd3e63aa-0acf-47ff-819f-e3fb0e77fecb-attachment.png' type='image/png' size='41795'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584785042277' status='passed' stop='1584785043980'>
+            <name>Verify Header value</name>
+            <title>Verify Header value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d1b0994b-7cc4-4d36-881a-33a81dc3d7c0-attachment.png' type='image/png' size='40149'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584785043981' status='failed' stop='1584785044378'>
+            <name>Verify URL</name>
+            <title>Verify URL</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='67286cdb-a54e-4bac-beb8-fbe36d3e4a79-attachment.png' type='image/png' size='38275'/>
+            </attachments>
+            <failure>
+                <message>Expected 'status' to match ' Open '.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\MyOrders\MyOrdersTableSearch_spec.js:123:18
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

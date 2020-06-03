@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584889769919' stop='1584889816749'>
+    <name>Add Item by List</name>
+    <title>Add Item by List</title>
+    <test-cases>
+        <test-case start='1584889769920' status='passed' stop='1584889794687'>
+            <name>Item should add successfully</name>
+            <title>Item should add successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6ce7c5ad-ad54-48f7-9c88-ed27f6062b64-attachment.png' type='image/png' size='144608'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584889794687' status='passed' stop='1584889795162'>
+            <name>verify presence list icon </name>
+            <title>verify presence list icon </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ca13ad0e-4040-49b3-84d4-17d1dd842f76-attachment.png' type='image/png' size='149983'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584889795162' status='passed' stop='1584889795636'>
+            <name>verify Display option is present </name>
+            <title>verify Display option is present </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='04894106-3f7f-4667-a3bd-4acc8f5035f8-attachment.png' type='image/png' size='149983'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584889795636' status='pending' stop='1584889795637'>
+            <name>Verify pagination feature</name>
+            <title>Verify pagination feature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584889795637' status='passed' stop='1584889804319'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='75ddb0bb-0e9a-4a81-8ecb-7d543dfcc0cd-attachment.png' type='image/png' size='216595'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584889804319' status='passed' stop='1584889804797'>
+            <name>verify UOM element of product description</name>
+            <title>verify UOM element of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7b08a8e9-1632-4a85-a934-bd960f8cf041-attachment.png' type='image/png' size='215296'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584889804797' status='passed' stop='1584889805268'>
+            <name>verify Status  of product description</name>
+            <title>verify Status  of product description</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9189bc67-d78d-47dd-ad1d-bf5639ad05a7-attachment.png' type='image/png' size='215296'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584889805268' status='passed' stop='1584889816282'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='adbb0717-a53d-494a-a6ba-586cae365360-attachment.png' type='image/png' size='168922'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584889816282' status='failed' stop='1584889816748'>
+            <name>Validate Error Message if out of stock or any other reson</name>
+            <title>Validate Error Message if out of stock or any other reson</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e6f61752-c6da-40be-93fb-5536711f8e7b-attachment.png' type='image/png' size='166972'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Error
+                At least 1 must be ordered.' to contain 'Out of stock'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByList_spec.js:291:18
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\built\element.js:804:32
+                    at ManagedPromise.invokeCallback_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

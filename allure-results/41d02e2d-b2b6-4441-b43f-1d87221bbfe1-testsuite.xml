@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585387545827' stop='1585387573498'>
+    <name>Add Item by List Verify Item/product deatils</name>
+    <title>Add Item by List Verify Item/product deatils</title>
+    <test-cases>
+        <test-case start='1585387545827' status='passed' stop='1585387546406'>
+            <name>Items details</name>
+            <title>Items details</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='242fd69a-dc96-45a2-a1fd-53216a3e8c39-attachment.png' type='image/png' size='213892'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585387546406' status='failed' stop='1585387547002'>
+            <name>Items details by map </name>
+            <title>Items details by map </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4a1fea08-e637-4e5e-a3ab-e89af5b3dcbe-attachment.png' type='image/png' size='213892'/>
+            </attachments>
+            <failure>
+                <message>Expected $[0] not to have properties
+                    class: 'card-text text-muted'
+                Expected $[1] not to have properties
+                    class: 'card-text text-muted'
+                Expected $[2] not to have properties
+                    class: 'card-text text-muted'
+                Expected $[3] not to have properties
+                    class: 'card-text text-muted'
+                Expected $[4] not to have properties
+                    class: 'card-text text-muted col-md-3'
+                Expected $[5] not to have properties
+                    class: 'card-text text-muted col-md-3'
+                Expected $[6] not to have properties
+                    class: 'card-text text-muted col-md-3'
+                Expected $[7] not to have properties
+                    class: 'card-text text-muted col-md-3'</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\AddItem\AddItemByList_spec.js:169:17)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585387547002' status='passed' stop='1585387559878'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dc1d8afd-c8e5-4937-9c93-9211f8c3c3cc-attachment.png' type='image/png' size='165233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585387559878' status='passed' stop='1585387573498'>
+            <name>Validate Error Message if out of stock or any other reson</name>
+            <title>Validate Error Message if out of stock or any other reson</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1b2243ab-f164-415e-a32a-593cb18c797a-attachment.png' type='image/png' size='73190'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

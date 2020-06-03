@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585118704661' stop='1585118705249'>
+    <name> Verifying Home Page  Verify RESOURCES Tab</name>
+    <title> Verifying Home Page  Verify RESOURCES Tab</title>
+    <test-cases>
+        <test-case start='1585118704661' status='passed' stop='1585118705248'>
+            <name>Verify Documents link</name>
+            <title>Verify Documents link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c2ef2342-a300-460c-a8b1-fcc1d9cc3e9d-attachment.png' type='image/png' size='199147'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

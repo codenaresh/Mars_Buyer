@@ -1,0 +1,16 @@
+{ 
+   "testsiteurl":"https://archway-mars-qa.azurewebsites.net/login",
+   "locators":{ 
+      "Loginpage":{ 
+         "username":"//input[@id='username']",
+         "password":"//input[@id='password']",
+         "submitBtn":"//button[@id='submitBtn']",
+         "forgotpwd":"Forgot Password",
+         "contactus":"Contact Us",
+         "rememberme":"Remember Me",
+         "title":"Mars Buyer",
+         "userlabel":"User Name"
+      }
+   }
+}
+

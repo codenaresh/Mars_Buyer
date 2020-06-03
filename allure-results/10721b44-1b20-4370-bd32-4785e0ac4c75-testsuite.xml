@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585120707737' stop='1585120727170'>
+    <name> Verifying Home Page </name>
+    <title> Verifying Home Page </title>
+    <test-cases>
+        <test-case start='1585120707737' status='passed' stop='1585120708114'>
+            <name>veriy all links present on page</name>
+            <title>veriy all links present on page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ba9058d6-3d99-4ec0-8e58-2a1d3568ebd6-attachment.png' type='image/png' size='31733'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585120708114' status='passed' stop='1585120708485'>
+            <name>should find all links on Home Page</name>
+            <title>should find all links on Home Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='406f7e5c-8bb1-4254-bddd-ae5664537c00-attachment.png' type='image/png' size='31703'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585120712338' status='passed' stop='1585120721299'>
+            <name>navigate to Contact form window</name>
+            <title>navigate to Contact form window</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b83c6709-8e00-40b4-a169-54cb633ef30d-attachment.png' type='image/png' size='32379'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585120721299' status='passed' stop='1585120721668'>
+            <name>Verify url</name>
+            <title>Verify url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fbfa1bb0-a7b9-48f1-b5d4-5d6bf9061a2e-attachment.png' type='image/png' size='49149'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585120721668' status='passed' stop='1585120727168'>
+            <name>should navigate to Parent window </name>
+            <title>should navigate to Parent window </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='42e20717-32c6-4060-bdda-3e245445a47f-attachment.png' type='image/png' size='316583'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585120727168' status='pending' stop='1585120727169'>
+            <name>Verify  condition of use </name>
+            <title>Verify  condition of use </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585120727169' status='pending' stop='1585120727169'>
+            <name>should open the first tab</name>
+            <title>should open the first tab</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585120727170' status='pending' stop='1585120727170'>
+            <name>Verify Privacy Plociy</name>
+            <title>Verify Privacy Plociy</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

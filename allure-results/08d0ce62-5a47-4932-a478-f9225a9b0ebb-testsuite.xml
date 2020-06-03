@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585219855264' stop='1585219861670'>
+    <name>Add Item to cart by  Quick Add and verify contents present on page  error</name>
+    <title>Add Item to cart by  Quick Add and verify contents present on page  error</title>
+    <test-cases>
+        <test-case start='1585219855264' status='passed' stop='1585219861669'>
+            <name>dfdf</name>
+            <title>dfdf</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='90946a12-4052-4395-ba42-0813f220f926-attachment.png' type='image/png' size='107904'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

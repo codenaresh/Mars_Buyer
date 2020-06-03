@@ -1,0 +1,141 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584970667284' stop='1584970746157'>
+    <name>CheckOut Verfication</name>
+    <title>CheckOut Verfication</title>
+    <test-cases>
+        <test-case start='1584970667284' status='passed' stop='1584970670003'>
+            <name>checkout case for One time Address</name>
+            <title>checkout case for One time Address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f374201c-a082-4efb-a411-224d201fc500-attachment.png' type='image/png' size='45412'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584970670003' status='passed' stop='1584970726825'>
+            <name>checkout process</name>
+            <title>checkout process</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ce12e7f9-9b34-44b6-960f-6f46185d9bd4-attachment.png' type='image/png' size='58396'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584970726825' status='passed' stop='1584970733283'>
+            <name>Verify order has submitted</name>
+            <title>Verify order has submitted</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='39a6c413-bc92-4858-b9c2-758aec135cc9-attachment.png' type='image/png' size='52055'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584970733283' status='passed' stop='1584970739709'>
+            <name>Verify submited order Number </name>
+            <title>Verify submited order Number </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='173345cb-732a-4592-b270-caf6fb18ee6c-attachment.png' type='image/png' size='52055'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584970739709' status='passed' stop='1584970746151'>
+            <name>Order ID Number Text is present when order is confirmed</name>
+            <title>Order ID Number Text is present when order is confirmed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2c06444e-c216-43ff-93aa-842cee1e03b0-attachment.png' type='image/png' size='52102'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584970746151' status='pending' stop='1584970746153'>
+            <name>Date Submitted Text is present when order is confirmed</name>
+            <title>Date Submitted Text is present when order is confirmed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584970746153' status='pending' stop='1584970746155'>
+            <name> Verify Date Submitted  is the current date when order is confirmed</name>
+            <title> Verify Date Submitted  is the current date when order is confirmed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584970746156' status='pending' stop='1584970746156'>
+            <name>Shipping Method Text is present when order is confirmed</name>
+            <title>Shipping Method Text is present when order is confirmed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584970746156' status='pending' stop='1584970746156'>
+            <name> vrify Shipping Method  is same that user has selected while palcing the order</name>
+            <title> vrify Shipping Method  is same that user has selected while palcing the order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584970746156' status='pending' stop='1584970746157'>
+            <name>Subtotal Text is present when order is confirmed</name>
+            <title>Subtotal Text is present when order is confirmed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584970746157' status='pending' stop='1584970746157'>
+            <name> verify Subtotal value is correct</name>
+            <title> verify Subtotal value is correct</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1584970746157' status='pending' stop='1584970746157'>
+            <name> verify print option</name>
+            <title> verify print option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

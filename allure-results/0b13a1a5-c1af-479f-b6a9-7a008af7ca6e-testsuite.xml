@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585538234491' stop='1585538244971'>
+    <name>Veriy Line Items</name>
+    <title>Veriy Line Items</title>
+    <test-cases>
+        <test-case start='1585538234491' status='passed' stop='1585538238218'>
+            <name>User should be  able to click on Cart</name>
+            <title>User should be  able to click on Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='94456558-2796-4ff4-b3a0-ee782606dafd-attachment.png' type='image/png' size='45520'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585538238218' status='passed' stop='1585538238588'>
+            <name>Verify user is on shopping cart page</name>
+            <title>Verify user is on shopping cart page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f36bb578-63e7-44d0-a75b-ceaf97e35547-attachment.png' type='image/png' size='45549'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585538238588' status='pending' stop='1585538238590'>
+            <name>verify cancel Order button</name>
+            <title>verify cancel Order button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585538238590' status='passed' stop='1585538244971'>
+            <name>Verify Item presence in cart and in line item</name>
+            <title>Verify Item presence in cart and in line item</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e38b798a-c253-44f3-a363-e2744dd516d8-attachment.png' type='image/png' size='43969'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

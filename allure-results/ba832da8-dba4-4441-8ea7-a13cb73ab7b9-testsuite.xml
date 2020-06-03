@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585220403442' stop='1585220406033'>
+    <name>Add Item to cart by  Quick Add and verify contents present on page  Verify Contens/Text </name>
+    <title>Add Item to cart by  Quick Add and verify contents present on page  Verify Contens/Text </title>
+    <test-cases>
+        <test-case start='1585220403442' status='passed' stop='1585220403843'>
+            <name>verify Remove Item text on Add To Cart screen</name>
+            <title>verify Remove Item text on Add To Cart screen</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='121f439e-aeb8-4d73-acb8-96405a0a4795-attachment.png' type='image/png' size='65929'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585220403843' status='passed' stop='1585220404231'>
+            <name>verify Qty text on checkout screen</name>
+            <title>verify Qty text on checkout screen</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4dbb4877-7be1-4201-b7d2-5bb5c47b58dd-attachment.png' type='image/png' size='65929'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585220404231' status='passed' stop='1585220404760'>
+            <name>Verify total item text  present in cart</name>
+            <title>Verify total item text  present in cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e2cd2033-34ac-4199-9573-0b42999125d8-attachment.png' type='image/png' size='65929'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585220404760' status='passed' stop='1585220405186'>
+            <name>verify presence of continue shopping button</name>
+            <title>verify presence of continue shopping button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='654e05a3-0736-407e-b1bd-b4285f8b2301-attachment.png' type='image/png' size='65929'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585220405186' status='passed' stop='1585220405590'>
+            <name>verify presence of Cancel Order button</name>
+            <title>verify presence of Cancel Order button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d97d26f9-486a-402d-aec5-3f1979c16d46-attachment.png' type='image/png' size='65929'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585220405590' status='passed' stop='1585220406032'>
+            <name> Verify presence of clear cart button</name>
+            <title> Verify presence of clear cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='91a95e37-fff8-401b-944a-ef05f431dd65-attachment.png' type='image/png' size='65929'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585233123697' stop='1585233176781'>
+    <name> Verifying Home Page  Verify Contact US link</name>
+    <title> Verifying Home Page  Verify Contact US link</title>
+    <test-cases>
+        <test-case start='1585233123698' status='passed' stop='1585233127373'>
+            <name>Verify Conact US links exist exist in footer</name>
+            <title>Verify Conact US links exist exist in footer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='68067cb5-8520-41d9-94ea-7dc2e36415c6-attachment.png' type='image/png' size='63811'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233127373' status='passed' stop='1585233150232'>
+            <name>navigate to Contact form window</name>
+            <title>navigate to Contact form window</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8bd224ce-67d2-43f4-8e71-3546b53f0e70-attachment.png' type='image/png' size='30420'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233150232' status='passed' stop='1585233156564'>
+            <name> Verification of Name text  is present and Enter Name  </name>
+            <title> Verification of Name text  is present and Enter Name  </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a4c86cd9-0696-4428-86a8-9c2c8074c537-attachment.png' type='image/png' size='49344'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233156564' status='passed' stop='1585233160152'>
+            <name> Enter Name value </name>
+            <title> Enter Name value </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='62543ad4-cb1d-416c-bd8c-8f46a0fcb892-attachment.png' type='image/png' size='52111'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233160152' status='passed' stop='1585233161181'>
+            <name> Verification Email text is present</name>
+            <title> Verification Email text is present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dc4fb530-73d8-486d-8556-c1dae18e6cdc-attachment.png' type='image/png' size='52111'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233161181' status='passed' stop='1585233163038'>
+            <name> Enter Email value </name>
+            <title> Enter Email value </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4a43df3e-1de0-4dca-ab06-30c5bb456466-attachment.png' type='image/png' size='51093'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233163038' status='passed' stop='1585233164059'>
+            <name>Verification Contact  Number text is present</name>
+            <title>Verification Contact  Number text is present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6bf86b90-522d-4fcf-8277-88d76f22c3cb-attachment.png' type='image/png' size='51093'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233164060' status='passed' stop='1585233165508'>
+            <name> Enter contact value </name>
+            <title> Enter contact value </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2741ee23-5b17-4c73-953c-6ef08ef683f6-attachment.png' type='image/png' size='51089'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233165508' status='passed' stop='1585233166536'>
+            <name> Verification Message text is present</name>
+            <title> Verification Message text is present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='73ed0e31-254a-4524-a9a6-e82a41c527c8-attachment.png' type='image/png' size='51089'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233166536' status='passed' stop='1585233168038'>
+            <name> Enter Message value </name>
+            <title> Enter Message value </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='eb8e4bf7-8623-4deb-a40d-313c79113983-attachment.png' type='image/png' size='51638'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233168038' status='passed' stop='1585233168916'>
+            <name>Verify Cancell Button presence </name>
+            <title>Verify Cancell Button presence </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4923a048-11f3-4747-8750-ebed0db4f7a1-attachment.png' type='image/png' size='51638'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233168916' status='passed' stop='1585233175368'>
+            <name>Verify Submit button presence  </name>
+            <title>Verify Submit button presence  </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d113cf55-a9cf-4887-b6fe-e32afd5338eb-attachment.png' type='image/png' size='49262'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233175368' status='passed' stop='1585233176057'>
+            <name>Verify url</name>
+            <title>Verify url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4262f01a-b12f-4402-8c69-905695cac622-attachment.png' type='image/png' size='40734'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585233176058' status='passed' stop='1585233176780'>
+            <name>Verify Success Message </name>
+            <title>Verify Success Message </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c4b472b5-9910-4b32-a8d8-e5af98b758bc-attachment.png' type='image/png' size='40734'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

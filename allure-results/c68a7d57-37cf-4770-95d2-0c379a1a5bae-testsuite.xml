@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585128288579' stop='1585128295282'>
+    <name> Verifying Home Page  Verify Contact US link</name>
+    <title> Verifying Home Page  Verify Contact US link</title>
+    <test-cases>
+        <test-case start='1585128288579' status='passed' stop='1585128295282'>
+            <name>Verify Conact US links exist exist in footer</name>
+            <title>Verify Conact US links exist exist in footer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2ef2e33a-14dc-49a0-8946-2779b4f35418-attachment.png' type='image/png' size='34459'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

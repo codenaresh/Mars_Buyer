@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585313171901' stop='1585313325096'>
+    <name>Add Item by List</name>
+    <title>Add Item by List</title>
+    <test-cases>
+        <test-case start='1585313171902' status='passed' stop='1585313195873'>
+            <name>Item should add successfully</name>
+            <title>Item should add successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6c25484e-1e77-4933-9097-2d2ce568aee5-attachment.png' type='image/png' size='149799'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585313195873' status='passed' stop='1585313196354'>
+            <name>verify presence list icon </name>
+            <title>verify presence list icon </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='407942e9-f31a-4f9b-a89a-d63c95dd83d9-attachment.png' type='image/png' size='149799'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585313196354' status='passed' stop='1585313196814'>
+            <name>verify Display option is present </name>
+            <title>verify Display option is present </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='53cb1b10-80a9-4a4b-92ed-83bb30f133c9-attachment.png' type='image/png' size='149799'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585313196814' status='passed' stop='1585313325090'>
+            <name>Verify pagination feature</name>
+            <title>Verify pagination feature</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bab191ed-324d-492d-b36b-c8b1c9f60bac-attachment.png' type='image/png' size='61941'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585313325091' status='pending' stop='1585313325092'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585313325095' status='pending' stop='1585313325096'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

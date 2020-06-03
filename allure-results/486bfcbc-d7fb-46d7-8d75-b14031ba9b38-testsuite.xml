@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585296413086' stop='1585296415730'>
+    <name>Add Item by List Verify Item/product specification</name>
+    <title>Add Item by List Verify Item/product specification</title>
+    <test-cases>
+        <test-case start='1585296413086' status='passed' stop='1585296415247'>
+            <name>all items</name>
+            <title>all items</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='21082c45-6ddc-4120-a864-bf5dafe75730-attachment.png' type='image/png' size='163141'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585296415247' status='pending' stop='1585296415249'>
+            <name>Enter Quantity and click to add to cart button</name>
+            <title>Enter Quantity and click to add to cart button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585296415250' status='passed' stop='1585296415728'>
+            <name>Verify if item is able to add to cart of not</name>
+            <title>Verify if item is able to add to cart of not</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d816a2c9-147a-4d6d-ae05-f361244805b3-attachment.png' type='image/png' size='163060'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585296415728' status='pending' stop='1585296415729'>
+            <name>click on Cart Icon</name>
+            <title>click on Cart Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585296415729' status='pending' stop='1585296415729'>
+            <name>Validate Error Message if out of stock or any other reson</name>
+            <title>Validate Error Message if out of stock or any other reson</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584865156501' stop='1584865169115'>
+    <name> Verifying Home Page  Verify UserMenu</name>
+    <title> Verifying Home Page  Verify UserMenu</title>
+    <test-cases>
+        <test-case start='1584865156501' status='passed' stop='1584865161982'>
+            <name>Verify UserCircle</name>
+            <title>Verify UserCircle</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fefbe6dc-6ff3-4633-bb83-468047fd2fee-attachment.png' type='image/png' size='58153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584865161982' status='passed' stop='1584865162402'>
+            <name>Verify presence of User profile</name>
+            <title>Verify presence of User profile</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0d7585d7-085d-4f50-a4a8-af3f9dd7ff51-attachment.png' type='image/png' size='58153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584865162402' status='passed' stop='1584865162813'>
+            <name>Verify presence of my Orders</name>
+            <title>Verify presence of my Orders</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c8095f3b-6812-414c-84b3-5cf84ce7061f-attachment.png' type='image/png' size='58153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584865162813' status='passed' stop='1584865165242'>
+            <name>Verify User Logout Option</name>
+            <title>Verify User Logout Option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='34f105da-15df-463e-b505-b6f7576903b6-attachment.png' type='image/png' size='58153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584865165242' status='passed' stop='1584865168706'>
+            <name>Verify Distribution list Option</name>
+            <title>Verify Distribution list Option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f371522e-2db4-444b-abf1-a71bd5604827-attachment.png' type='image/png' size='58153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584865168706' status='passed' stop='1584865169115'>
+            <name>Verify Address  Option</name>
+            <title>Verify Address  Option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bdb4243d-a71e-4200-8b61-4ba300e5409d-attachment.png' type='image/png' size='58153'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

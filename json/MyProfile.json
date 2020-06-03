@@ -1,0 +1,17 @@
+{
+
+"testdata":{
+
+            "FirstName":"fname",
+            "LastName":"", 
+            "PhoneNumber":"1234567899",
+            "profileupdateurl":"https://archway-mars-qa.azurewebsites.net/profile/details" 
+            
+            
+
+
+
+}
+
+
+}

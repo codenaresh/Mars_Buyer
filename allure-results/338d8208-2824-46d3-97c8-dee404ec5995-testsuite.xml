@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584689511872' stop='1584689541998'>
+    <name> Verifying the Login Page - </name>
+    <title> Verifying the Login Page - </title>
+    <test-cases>
+        <test-case start='1584689511872' status='passed' stop='1584689532610'>
+            <name>User should be able to select Order status successfully</name>
+            <title>User should be able to select Order status successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c2bbc333-9836-42f2-a26e-4854719c894e-attachment.png' type='image/png' size='38093'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584689532610' status='passed' stop='1584689537618'>
+            <name>User Should be able to enter date successfully</name>
+            <title>User Should be able to enter date successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a85d2352-7ce8-45a2-ad42-4160bfbc3dab-attachment.png' type='image/png' size='39626'/>
+            </attachments>
+        </test-case>
+        <test-case start='1584689537618' status='passed' stop='1584689541997'>
+            <name>Verify if no orders is found than veriy text</name>
+            <title>Verify if no orders is found than veriy text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='eac24547-0735-445b-88b5-ffd5c83255be-attachment.png' type='image/png' size='41786'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

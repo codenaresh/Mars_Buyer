@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585388125830' stop='1585388194647'>
+    <name>Add Item by List</name>
+    <title>Add Item by List</title>
+    <test-cases>
+        <test-case start='1585388125830' status='passed' stop='1585388153859'>
+            <name>Item should add successfully</name>
+            <title>Item should add successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='246ec8f9-81a8-4bfa-a3cf-7d066174e7e2-attachment.png' type='image/png' size='149435'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585388153859' status='passed' stop='1585388154324'>
+            <name>verify presence list icon </name>
+            <title>verify presence list icon </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f0f69554-a103-4230-a33c-617de3d76d48-attachment.png' type='image/png' size='149435'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585388154324' status='passed' stop='1585388154812'>
+            <name>verify Display option is present </name>
+            <title>verify Display option is present </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0ff4b92e-b4ba-4302-b905-45e4cdf0e306-attachment.png' type='image/png' size='149435'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585388154812' status='passed' stop='1585388167485'>
+            <name>Click on Product/veryFirstImage Icon</name>
+            <title>Click on Product/veryFirstImage Icon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='81bb455a-1395-48af-b5a1-f7da60c1e6e9-attachment.png' type='image/png' size='213641'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

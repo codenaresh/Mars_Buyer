@@ -1,0 +1,185 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585821753569' stop='1585821821732'>
+    <name>Verify user can update  New Address</name>
+    <title>Verify user can update  New Address</title>
+    <test-cases>
+        <test-case start='1585821753569' status='passed' stop='1585821784393'>
+            <name>Verify if user can clikc on New Address</name>
+            <title>Verify if user can clikc on New Address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e8e9a94e-fdf3-4cb6-84ef-11a60a6f5a6a-attachment.png' type='image/png' size='69766'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821784393' status='failed' stop='1585821784913'>
+            <name>user should be able to select country</name>
+            <title>user should be able to select country</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='df7c747f-f407-477e-bd68-a9a96d31dde5-attachment.png' type='image/png' size='68261'/>
+            </attachments>
+            <failure>
+                <message>Expected [ Object({ index: 0, text: 'Country
+                United States of America 
+                Canada ' }) ] to equal 2.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\Address\AddAddress_spec.js:83:18)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1585821784913' status='passed' stop='1585821787533'>
+            <name>Enter first Name</name>
+            <title>Enter first Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b8507a18-2e2d-4600-87ef-32367616b5a3-attachment.png' type='image/png' size='68124'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821787533' status='passed' stop='1585821792156'>
+            <name>Enter Last Name</name>
+            <title>Enter Last Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d9ecd8b5-0ba7-48bf-9bf2-20d6e60a02c8-attachment.png' type='image/png' size='75208'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821792156' status='passed' stop='1585821794790'>
+            <name>Enter Compamy Name</name>
+            <title>Enter Compamy Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='925bc546-e450-455a-b424-204048c1a5cf-attachment.png' type='image/png' size='74162'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821794790' status='passed' stop='1585821799537'>
+            <name>Enter Street  Name</name>
+            <title>Enter Street  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3c52d89d-82d9-4e36-aeb1-e8aac9a383cb-attachment.png' type='image/png' size='72371'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821799537' status='passed' stop='1585821805158'>
+            <name>Enter city  Name</name>
+            <title>Enter city  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c7cf3214-403d-4571-b07b-1e8b8b848658-attachment.png' type='image/png' size='72446'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821805158' status='passed' stop='1585821805769'>
+            <name>Select state  Name</name>
+            <title>Select state  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4f232a0e-ccda-45f3-aafc-c5eedafa2806-attachment.png' type='image/png' size='76952'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821805769' status='passed' stop='1585821808381'>
+            <name>Enter zipcode  Name</name>
+            <title>Enter zipcode  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='67f6aac1-23ae-4f8e-ad78-c8816ec7cf87-attachment.png' type='image/png' size='71909'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821808381' status='passed' stop='1585821811967'>
+            <name>Enter Fax Number  Name</name>
+            <title>Enter Fax Number  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='73af7100-bd34-42ac-a8c7-75bf1fe349f5-attachment.png' type='image/png' size='72572'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821811967' status='passed' stop='1585821812574'>
+            <name>Enter E-mail  Name</name>
+            <title>Enter E-mail  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9fbea451-12d9-495f-8d68-c8b702e1d4e8-attachment.png' type='image/png' size='73470'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821812574' status='passed' stop='1585821815267'>
+            <name>Enter Phone  Name</name>
+            <title>Enter Phone  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='212bb4ef-51c4-4b2b-85c3-07632f98b6d9-attachment.png' type='image/png' size='73661'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821815267' status='passed' stop='1585821820745'>
+            <name>Click on Save button</name>
+            <title>Click on Save button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='21211bb3-f36a-46c2-9efa-98310cdcf4ac-attachment.png' type='image/png' size='85641'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821820745' status='passed' stop='1585821821176'>
+            <name>Verify URL after click on address</name>
+            <title>Verify URL after click on address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8ebcda5e-b8af-41fa-a375-9b8b55905427-attachment.png' type='image/png' size='85621'/>
+            </attachments>
+        </test-case>
+        <test-case start='1585821821176' status='failed' stop='1585821821732'>
+            <name>User should be select address wheather its original OR suggested </name>
+            <title>User should be select address wheather its original OR suggested </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cd379921-7fdb-4fff-b367-4be362139861-attachment.png' type='image/png' size='57351'/>
+            </attachments>
+            <failure>
+                <message>Expected '' to contain 'Use  Original'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\NareshS\eclipse-workspace\protrract\Mars_Byer\specs\Address\AddAddress_spec.js:246:45)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\NareshS\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

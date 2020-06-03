@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1584621782859' stop='1584621833328'>
+    <name>search product</name>
+    <title>search product</title>
+    <test-cases>
+        <test-case start='1584621782859' status='passed' stop='1584621833328'>
+            <name>Verify if user can search product by Order Number successfully</name>
+            <title>Verify if user can search product by Order Number successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='15f6f728-d4b4-44ef-bf7c-9acc89c978f4-attachment.png' type='image/png' size='95296'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

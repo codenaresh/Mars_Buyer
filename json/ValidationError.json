@@ -1,0 +1,26 @@
+{ 
+   "addressvalidation":{ 
+      "fname":"First Name is required",
+      "lname":"Last Name is required",
+      "address1":"Address 1 is required",
+      "city":"City is required",
+       "state":"State is required",
+        "zipcode":"Zip Code is required",
+         "email":"Email Address is required",
+          "phonenumber":"Phone Number is required"
+          
+      
+     
+   },
+   
+   
+   
+    "contact":{ 
+      "name":"demoname",
+      "email":"test@yahoo.com",
+      "contact":"1234567899",
+      "message":"testing Message"
+      
+     
+   }
+}
