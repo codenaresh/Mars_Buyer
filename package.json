@@ -7,7 +7,7 @@
 				"jasmine": "^3.5.0",
 				"jasmine-allure-reporter": "^1.0.2",
 				"jasmine-reporters": "~2.0.0",
-				"protractor": "~2.2.0",
+				"protractor": "~7.0.0",
 				"protractor-html-screenshot-reporter": "~0.0.21",
 				"protractor-jasmine2-html-reporter": "~0.0.5",
 				"protractor-jasmine2-screenshot-reporter": "^0.1.8",
